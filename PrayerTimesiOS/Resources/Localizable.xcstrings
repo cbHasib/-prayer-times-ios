@@ -1837,6 +1837,9 @@
         }
       }
     },
+    "Dismisses settings and displays a sample Focus Mode screen for 10 seconds to preview the layout." : {
+
+    },
     "Display" : {
       "localizations" : {
         "ar" : {
@@ -2251,9 +2254,6 @@
           }
         }
       }
-    },
-    "focus time remaining" : {
-
     },
     "Follow system" : {
       "extractionState" : "stale",
@@ -4350,6 +4350,9 @@
           }
         }
       }
+    },
+    "Preview" : {
+
     },
     "Preview sound" : {
       "extractionState" : "stale",

@@ -29,7 +29,7 @@ final class SettingsStore {
     private(set) var isDetectingLocation = false
     private(set) var locationError: String?
 
-    static let appGroupSuite: String? = "group.co.tareq.prayertimes"
+    static let appGroupSuite: String? = "group.co.hasib.prayertimes"
 
     init(location: LocationService, defaults: UserDefaults? = nil) {
         self.location = location

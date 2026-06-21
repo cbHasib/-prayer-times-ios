@@ -14,7 +14,7 @@ final class AudioService: NSObject, AVAudioPlayerDelegate {
     private(set) var isPlaying = false
 
     @ObservationIgnored private var player: AVAudioPlayer?
-    @ObservationIgnored private let log = Logger(subsystem: "co.tareq.prayertimes.ios", category: "audio")
+    @ObservationIgnored private let log = Logger(subsystem: "co.hasib.prayertimes.ios", category: "audio")
 
     /// Play the full Adhan associated with `sound` (Makkah/Madinah).
     func playFullAdhan(_ sound: NotificationSound) {

@@ -3,7 +3,7 @@ import SwiftUI
 import PrayerKit
 
 struct AppGroupSettingsLoader {
-    static let suiteName = "group.co.tareq.prayertimes"
+    static let suiteName = "group.co.hasib.prayertimes"
     static let key = "appSettings.v1"
     static let defaultCoordinates = Coordinates(latitude: 41.0082, longitude: 28.9784)
 

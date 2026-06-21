@@ -12,7 +12,7 @@ import Observation
 final class NotificationService: NSObject {
     @ObservationIgnored private let audio: AudioService
     @ObservationIgnored private let center = UNUserNotificationCenter.current()
-    @ObservationIgnored private let log = Logger(subsystem: "co.tareq.prayertimes.ios", category: "notifications")
+    @ObservationIgnored private let log = Logger(subsystem: "co.hasib.prayertimes.ios", category: "notifications")
 
     /// The current system authorization status.
     private(set) var authorizationStatus: UNAuthorizationStatus = .notDetermined

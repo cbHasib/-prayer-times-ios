@@ -27,7 +27,7 @@ enum LocationError: LocalizedError {
 final class LocationService: NSObject, CLLocationManagerDelegate {
     private let manager = CLLocationManager()
     private let geocoder = CLGeocoder()
-    private let log = Logger(subsystem: "co.tareq.prayertimes.ios", category: "location")
+    private let log = Logger(subsystem: "co.hasib.prayertimes.ios", category: "location")
 
     private(set) var authorization: CLAuthorizationStatus
     @ObservationIgnored private var continuation: CheckedContinuation<CLLocation, Error>?
