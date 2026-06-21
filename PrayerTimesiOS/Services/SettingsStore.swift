@@ -1,6 +1,7 @@
 import Foundation
 import UIKit
 import Observation
+import WidgetKit
 import PrayerKit
 
 /// The single source of truth for user configuration. Adapted from macOS:
@@ -182,6 +183,7 @@ final class SettingsStore {
     private func persist() {
         guard let data = try? JSONEncoder().encode(settings) else { return }
         defaults.set(data, forKey: key)
+        WidgetCenter.shared.reloadAllTimelines()
     }
 
     private static func load(from defaults: UserDefaults, key: String) -> AppSettings? {
@@ -212,21 +214,4 @@ struct ResolvedInputs: Equatable {
     var manual: ManualSchedule?
 }
 
-/// The fixed-schedule overlay for Manual time-source mode.
-struct ManualSchedule: Equatable {
-    var jamaatMinutes: [Prayer: Int]
-    var azanBeforeJamaat: Int
-    var keepWaqt: Bool
 
-    func applied(to base: PrayerTimes, day: Date, timeZone: TimeZone) -> PrayerTimes {
-        var cal = Calendar(identifier: .gregorian)
-        cal.timeZone = timeZone
-        let midnight = cal.startOfDay(for: day)
-        var times = base.times
-        for prayer in Prayer.obligatory {
-            guard let minutes = jamaatMinutes[prayer] else { continue }
-            times[prayer] = midnight.addingTimeInterval(TimeInterval(minutes) * 60)
-        }
-        return PrayerTimes(date: base.date, times: times)
-    }
-}

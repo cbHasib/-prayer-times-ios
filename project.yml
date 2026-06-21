@@ -31,6 +31,7 @@ targets:
     dependencies:
       - package: PrayerKit
         product: PrayerKit
+      - target: PrayerTimesWidget
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: co.hasib.prayertimesios
@@ -43,9 +44,31 @@ targets:
         TARGETED_DEVICE_FAMILY: "1,2"
         CODE_SIGN_ENTITLEMENTS: PrayerTimesiOS/Supporting/PrayerTimesiOS.entitlements
 
+  PrayerTimesWidget:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: PrayerTimesWidget
+        excludes:
+          - "**/README.md"
+      - path: PrayerTimesiOS/App/PrayerFormatting.swift
+      - path: PrayerTimesiOS/App/ManualSchedule.swift
+    dependencies:
+      - package: PrayerKit
+        product: PrayerKit
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: co.hasib.prayertimesios.widget
+        PRODUCT_NAME: Prayer Times Widget
+        INFOPLIST_FILE: PrayerTimesWidget/Supporting/Info.plist
+        GENERATE_INFOPLIST_FILE: NO
+        CODE_SIGN_STYLE: Automatic
+        CODE_SIGN_ENTITLEMENTS: PrayerTimesWidget/Supporting/PrayerTimesWidget.entitlements
+
 schemes:
   PrayerTimesiOS:
     build:
       targets:
         PrayerTimesiOS: all
+
 

@@ -56,6 +56,6 @@ project.yml           XcodeGen project spec
 
 ## Credits & License
 
-- Ported to iOS by [Hasib](https://github.com/hasib/prayer-time-ios).
+- Ported to iOS by [Hasib](https://github.com/cbhasib/prayer-time-ios).
 - Original macOS menu bar application created by [Tareq Hasan](https://github.com/tareq1988/prayer-times-macos).
 - Licensed under the [MIT License](LICENSE).
