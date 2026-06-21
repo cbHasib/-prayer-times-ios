@@ -226,7 +226,7 @@ struct SmallWidgetView: View {
             }
 
             if let next = entry.nextPrayer, let nextTime = entry.nextPrayerTime {
-                VStack(alignment: .leading, spacing: 2) {
+                VStack(alignment: .leading, spacing: 4) {
                     Text(PrayerFormatting.name(next))
                         .font(.headline)
                         .foregroundStyle(.primary)
@@ -234,17 +234,19 @@ struct SmallWidgetView: View {
                     Text(PrayerFormatting.clock(nextTime, in: entry.timeZone))
                         .font(.subheadline)
                         .foregroundStyle(.secondary)
+
+                    Text(nextTime, style: .timer)
+                        .font(.system(size: 20, weight: .bold, design: .monospaced))
+                        .foregroundStyle(Color(red: 0.18, green: 0.58, blue: 0.247))
+                        .padding(.top, 2)
                 }
 
                 Spacer()
-
-                Text(nextTime, style: .timer)
-                    .font(.system(size: 20, weight: .bold, design: .monospaced))
-                    .foregroundStyle(Color(red: 0.18, green: 0.58, blue: 0.247))
             } else {
                 Text("No upcoming prayers")
                     .font(.caption)
                     .foregroundStyle(.secondary)
+                Spacer()
             }
         }
         .padding()
@@ -257,7 +259,7 @@ struct MediumWidgetView: View {
 
     var body: some View {
         HStack(spacing: 16) {
-            VStack(alignment: .leading, spacing: 8) {
+            VStack(alignment: .leading, spacing: 6) {
                 Text("UPCOMING")
                     .font(.caption2.weight(.bold))
                     .foregroundStyle(.secondary)
@@ -276,16 +278,17 @@ struct MediumWidgetView: View {
                         .font(.subheadline)
                         .foregroundStyle(.secondary)
 
-                    Spacer()
-
                     Text(nextTime, style: .timer)
                         .font(.system(size: 24, weight: .bold, design: .rounded))
                         .foregroundStyle(Color(red: 0.18, green: 0.58, blue: 0.247))
+                        .padding(.top, 2)
                 } else {
                     Text("No upcoming prayers")
                         .font(.caption)
                         .foregroundStyle(.secondary)
                 }
+
+                Spacer()
             }
             .frame(maxWidth: .infinity, alignment: .leading)
 
