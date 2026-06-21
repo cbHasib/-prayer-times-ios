@@ -40,13 +40,8 @@ struct FocusModeSettingsView: View {
 
                 Section {
                     Button {
-                        // Dismiss the settings sheet so they can see the fullscreen cover overlay clearly!
+                        clock.pendingFocusPreview = true
                         dismiss()
-                        
-                        // Wait a fraction of a second to let dismissal animation finish, then present
-                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
-                            clock.previewFocus()
-                        }
                     } label: {
                         Label("Preview Focus Mode (10s)", systemImage: "eye.fill")
                     }

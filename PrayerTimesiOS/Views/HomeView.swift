@@ -37,7 +37,12 @@ struct HomeView: View {
                     }
                 }
             }
-            .sheet(isPresented: $showSettings) {
+            .sheet(isPresented: $showSettings, onDismiss: {
+                if clock.pendingFocusPreview {
+                    clock.pendingFocusPreview = false
+                    clock.previewFocus()
+                }
+            }) {
                 SettingsView(settings: settings, clock: clock)
             }
             .fullScreenCover(isPresented: Binding(

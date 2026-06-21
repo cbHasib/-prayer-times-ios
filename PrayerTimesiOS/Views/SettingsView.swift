@@ -52,9 +52,18 @@ struct SettingsView: View {
                             .foregroundStyle(.secondary)
                     }
 
-                    Link(destination: URL(string: "https://github.com/tareq1988/prayer-times-macos")!) {
+                    Link(destination: URL(string: "https://github.com/hasib/prayer-time-ios")!) {
                         HStack {
                             Label("Source Code", systemImage: "chevron.left.forwardslash.chevron.right")
+                            Spacer()
+                            Image(systemName: "arrow.up.right.square")
+                                .foregroundStyle(.secondary)
+                        }
+                    }
+
+                    Link(destination: URL(string: "https://github.com/tareq1988/prayer-times-macos")!) {
+                        HStack {
+                            Label("Original macOS App", systemImage: "macwindow")
                             Spacer()
                             Image(systemName: "arrow.up.right.square")
                                 .foregroundStyle(.secondary)

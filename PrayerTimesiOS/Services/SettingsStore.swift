@@ -1,7 +1,6 @@
 import Foundation
 import UIKit
 import Observation
-import WidgetKit
 import PrayerKit
 
 /// The single source of truth for user configuration. Adapted from macOS:
@@ -180,12 +179,9 @@ final class SettingsStore {
         )
     }
 
-    // MARK: Persistence
-
     private func persist() {
         guard let data = try? JSONEncoder().encode(settings) else { return }
         defaults.set(data, forKey: key)
-        WidgetCenter.shared.reloadAllTimelines()
     }
 
     private static func load(from defaults: UserDefaults, key: String) -> AppSettings? {

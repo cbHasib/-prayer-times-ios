@@ -22,6 +22,7 @@ final class PrayerClock {
     private(set) var tomorrow: PrayerTimes
     private(set) var now: Date
     var activeFocusPrayer: Prayer?
+    var pendingFocusPreview = false
     private(set) var isPreviewingFocus = false
     private(set) var previewStartTime: Date? = nil
     private var dismissedFocusPrayers = Set<String>()
