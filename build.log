@@ -1,0 +1,238 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project PrayerTimes.xcodeproj -scheme PrayerTimesiOS -sdk iphonesimulator -configuration Debug build
+
+Build settings from command line:
+    SDKROOT = iphonesimulator26.5
+
+Resolve Package Graph
+
+
+Resolved source packages:
+  Sparkle: https://github.com/sparkle-project/Sparkle @ 2.9.3
+  PrayerKit: /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerKit
+
+ComputePackagePrebuildTargetDependencyGraph
+
+Prepare packages
+
+CreateBuildRequest
+
+SendProjectDescription
+
+CreateBuildOperation
+
+ComputeTargetDependencyGraph
+note: Building targets in dependency order
+note: Target dependency graph (3 targets)
+    Target 'PrayerTimesiOS' in project 'PrayerTimes'
+        ➜ Explicit dependency on target 'PrayerKit' in project 'PrayerKit'
+    Target 'PrayerKit' in project 'PrayerKit'
+        ➜ Explicit dependency on target 'PrayerKit' in project 'PrayerKit'
+    Target 'PrayerKit' in project 'PrayerKit' (no dependencies)
+
+GatherProvisioningInputs
+
+CreateBuildDescription
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -x c -c /dev/null
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc --version
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --print-asset-tag-combinations --output-format xml1 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Resources/Assets.xcassets
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --version --output-format xml1
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld -version_details
+
+Build description signature: e27f8b4479755fe368148c0ca3b07eba
+Build description path: /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/XCBuildData/e27f8b4479755fe368148c0ca3b07eba.xcbuilddata
+ClangStatCache /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk /Users/hasib/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator26.5-23F73-6cfe768891a92b912361537c460fe42b.sdkstatcache
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimes.xcodeproj
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -o /Users/hasib/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator26.5-23F73-6cfe768891a92b912361537c460fe42b.sdkstatcache
+
+SwiftDriver PrayerTimesiOS normal x86_64 com.apple.xcode.tools.swift.compiler (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    builtin-SwiftDriver -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Prayer_Times -Onone @/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/x86_64/Prayer\ Times.SwiftFileList -DDEBUG -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -target x86_64-apple-ios17.0-simulator -g -module-cache-path /Users/hasib/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 6 -I /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator -F /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator/PackageFrameworks -F /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator -c -j12 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator26.5-23F73-6cfe768891a92b912361537c460fe42b.sdkstatcache -output-file-map /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/x86_64/PrayerTimesiOS-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/hasib/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/hasib/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/x86_64/Prayer_Times.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/hasib/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/x86_64/PrayerTimesiOS_const_extract_protocols.json -Xcc -iquote -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-generated-files.hmap -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-own-target-headers.hmap -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimes-c5ea54548f06680eafff01a11240630f-VFS-iphonesimulator/all-product-headers.yaml -Xcc -iquote -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-project-headers.hmap -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator/include -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/DerivedSources-normal/x86_64 -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/DerivedSources/x86_64 -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/x86_64/Prayer_Times-Swift.h -working-directory /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios -experimental-emit-module-separately -disable-cmo
+
+SwiftDriver PrayerTimesiOS normal arm64 com.apple.xcode.tools.swift.compiler (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    builtin-SwiftDriver -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Prayer_Times -Onone @/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/Prayer\ Times.SwiftFileList -DDEBUG -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -target arm64-apple-ios17.0-simulator -g -module-cache-path /Users/hasib/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 6 -I /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator -F /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator/PackageFrameworks -F /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator -c -j12 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator26.5-23F73-6cfe768891a92b912361537c460fe42b.sdkstatcache -output-file-map /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/PrayerTimesiOS-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/hasib/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/hasib/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/Prayer_Times.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/hasib/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/PrayerTimesiOS_const_extract_protocols.json -Xcc -iquote -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-generated-files.hmap -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-own-target-headers.hmap -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimes-c5ea54548f06680eafff01a11240630f-VFS-iphonesimulator/all-product-headers.yaml -Xcc -iquote -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-project-headers.hmap -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator/include -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/DerivedSources-normal/arm64 -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/DerivedSources/arm64 -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/Prayer_Times-Swift.h -working-directory /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios -experimental-emit-module-separately -disable-cmo
+
+ProcessInfoPlistFile /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator/Prayer\ Times.app/Info.plist /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Supporting/Info.plist (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    builtin-infoPlistUtility /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Supporting/Info.plist -producttype com.apple.product-type.application -genpkginfo /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator/Prayer\ Times.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/assetcatalog_generated_info.plist -o /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator/Prayer\ Times.app/Info.plist
+
+SwiftCompile normal arm64 Compiling\ LocationService.swift,\ LocationSettingsView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/LocationService.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/LocationSettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/LocationService.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/LocationSettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal arm64 Compiling\ NotificationService.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/NotificationService.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/NotificationService.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal arm64 Compiling\ GeneralSettingsView.swift,\ HomeView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/GeneralSettingsView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Views/HomeView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/GeneralSettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Views/HomeView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal arm64 Compiling\ AudioService.swift,\ CalculationSettingsView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/AudioService.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/CalculationSettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/AudioService.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/CalculationSettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+/Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/CalculationSettingsView.swift:31:25: error: generic parameter 'C' could not be inferred
+                        ForEach(MethodRegistry.allMethods, id: \.id) { method in
+                        ^
+SwiftUI.ForEach.init:2:8: note: in call to initializer
+public init<C>(_ data: Binding<C>, id: KeyPath<C.Element, ID>, @ViewBuilder content: @escaping (Binding<C.Element>) -> Content) where Data == LazyMapSequence<C.Indices, (C.Index, ID)>, C : MutableCollection, C : RandomAccessCollection, C.Index : Hashable}
+       ^
+/Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/CalculationSettingsView.swift:31:48: error: type 'MethodRegistry' has no member 'allMethods'
+                        ForEach(MethodRegistry.allMethods, id: \.id) { method in
+                                ~~~~~~~~~~~~~~ ^~~~~~~~~~
+/Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/CalculationSettingsView.swift:31:64: error: cannot infer key path type from context; consider explicitly specifying a root type
+                        ForEach(MethodRegistry.allMethods, id: \.id) { method in
+                                                               ^
+                                                                <#Root#>
+/Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/CalculationSettingsView.swift:32:29: error: initializer 'init(_:)' requires that 'Binding<Subject>' conform to 'StringProtocol'
+                            Text(method.displayName).tag(method.id)
+                            ^
+SwiftUI.Text.init:2:8: note: where 'S' = 'Binding<Subject>'
+public init<S>(_ content: S) where S : StringProtocol}
+       ^
+
+Failed frontend command:
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swift-frontend -frontend -c -primary-file /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/AudioService.swift -primary-file /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/CalculationSettingsView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/GeneralSettingsView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Views/HomeView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/LocationService.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/LocationSettingsView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/NotificationService.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/NotificationSettingsView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Onboarding/OnboardingView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/PrayerClock.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/PrayerFormatting.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/PrayerTimesApp.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Views/PrayerTimesCard.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/SettingsStore.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Views/SettingsView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/Theme.swift /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/DerivedSources/GeneratedAssetSymbols.swift -emit-dependencies-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/AudioService.d -emit-const-values-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/AudioService.swiftconstvalues -emit-reference-dependencies-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/AudioService.swiftdeps -serialize-diagnostics-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/AudioService.dia -emit-dependencies-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/CalculationSettingsView.d -emit-const-values-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/CalculationSettingsView.swiftconstvalues -emit-reference-dependencies-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/CalculationSettingsView.swiftdeps -serialize-diagnostics-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/CalculationSettingsView.dia -target arm64-apple-ios17.0-simulator -module-can-import-version DeveloperToolsSupport 23.40.26 23.40.26 -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libFoundationMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#FoundationMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libObservationMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#ObservationMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libPreviewsMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#PreviewsMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libSwiftMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#SwiftMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libSwiftUIMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#SwiftUIMacros -disable-implicit-swift-modules -Xcc -fno-implicit-modules -Xcc -fno-implicit-module-maps -explicit-swift-module-map-file /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/Prayer_Times-dependencies-2.json -debug-module-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/Prayer_Times.swiftmodule -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -I /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator -F /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator/PackageFrameworks -F /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator -no-color-diagnostics -Xcc -fno-color-diagnostics -enable-testing -g -debug-info-format\=dwarf -dwarf-version\=4 -module-cache-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -swift-version 6 -Onone -D DEBUG -serialize-debugging-options -const-gather-protocols-file /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/PrayerTimesiOS_const_extract_protocols.json -enable-experimental-feature DebugDescriptionMacro -empty-abi-descriptor -validate-clang-modules-once -clang-build-session-file /Users/hasib/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -working-directory -Xcc /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios -enable-anonymous-context-mangled-names -file-compilation-dir /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -Xcc -ivfsstatcache -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphonesimulator26.5-23F73-6cfe768891a92b912361537c460fe42b.sdkstatcache -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-generated-files.hmap -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-own-target-headers.hmap -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimes-c5ea54548f06680eafff01a11240630f-VFS-iphonesimulator/all-product-headers.yaml -Xcc -iquote -Xcc /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Prayer\ Times-project-headers.hmap -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Products/Debug-iphonesimulator/include -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/DerivedSources-normal/arm64 -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/DerivedSources/arm64 -Xcc -I/Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/DerivedSources -Xcc -DDEBUG\=1 -no-auto-bridging-header-chaining -module-name Prayer_Times -frontend-parseable-output -disable-clang-spi -clang-target arm64-apple-ios26.5-simulator -target-sdk-version 26.5 -target-sdk-name iphonesimulator26.5 -in-process-plugin-server-path /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/libSwiftInProcPluginServer.dylib -o /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/AudioService.o -o /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Build/Intermediates.noindex/PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/CalculationSettingsView.o -index-unit-output-path /PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/AudioService.o -index-unit-output-path /PrayerTimes.build/Debug-iphonesimulator/PrayerTimesiOS.build/Objects-normal/arm64/CalculationSettingsView.o -index-store-path /Users/hasib/Library/Developer/Xcode/DerivedData/PrayerTimes-aobugexaxzyvvxfwwslrhqjevohh/Index.noindex/DataStore -index-system-modules
+SwiftCompile normal arm64 Compiling\ OnboardingView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Onboarding/OnboardingView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Onboarding/OnboardingView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal arm64 Compiling\ PrayerTimesCard.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Views/PrayerTimesCard.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Views/PrayerTimesCard.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftEmitModule normal x86_64 Emitting\ module\ for\ Prayer_Times (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+EmitSwiftModule normal x86_64 (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftEmitModule normal arm64 Emitting\ module\ for\ Prayer_Times (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+EmitSwiftModule normal arm64 (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal x86_64 Compiling\ AudioService.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/AudioService.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal x86_64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/AudioService.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal arm64 Compiling\ Theme.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/Theme.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/Theme.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal arm64 Compiling\ SettingsStore.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/SettingsStore.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/SettingsStore.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal arm64 Compiling\ PrayerTimesApp.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/PrayerTimesApp.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/PrayerTimesApp.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal arm64 Compiling\ PrayerClock.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/PrayerClock.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/PrayerClock.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftDriverJobDiscovery normal x86_64 Compiling AudioService.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal x86_64 Compiling\ NotificationService.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/NotificationService.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal x86_64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Services/NotificationService.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftDriverJobDiscovery normal arm64 Compiling NotificationService.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 Compiling\ SettingsView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Views/SettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Views/SettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal x86_64 Compiling\ CalculationSettingsView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/CalculationSettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+SwiftCompile normal x86_64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/CalculationSettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftCompile normal x86_64 Compiling\ PrayerTimesApp.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/PrayerTimesApp.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal x86_64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/PrayerTimesApp.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftDriverJobDiscovery normal arm64 Compiling SettingsStore.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 Compiling\ NotificationSettingsView.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/NotificationSettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal arm64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/Settings/NotificationSettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftDriverJobDiscovery normal arm64 Compiling PrayerTimesApp.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal x86_64 Compiling\ PrayerClock.swift /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/PrayerClock.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftCompile normal x86_64 /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios/PrayerTimesiOS/App/PrayerClock.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+    cd /Users/hasib/Desktop/Documents/Personal/Projects/prayer-time-ios
+    
+
+SwiftDriverJobDiscovery normal arm64 Compiling LocationService.swift, LocationSettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftDriverJobDiscovery normal arm64 Compiling Theme.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftDriverJobDiscovery normal arm64 Compiling PrayerTimesCard.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftDriverJobDiscovery normal arm64 Compiling OnboardingView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftDriverJobDiscovery normal x86_64 Compiling NotificationService.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftDriverJobDiscovery normal arm64 Compiling GeneralSettingsView.swift, HomeView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftDriverJobDiscovery normal arm64 Compiling PrayerClock.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftDriverJobDiscovery normal x86_64 Compiling PrayerTimesApp.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftDriverJobDiscovery normal arm64 Compiling NotificationSettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftDriverJobDiscovery normal arm64 Compiling SettingsView.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+
+SwiftDriverJobDiscovery normal x86_64 Compiling PrayerClock.swift (in target 'PrayerTimesiOS' from project 'PrayerTimes')
+

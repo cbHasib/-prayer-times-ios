@@ -1,0 +1,5594 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "— Prophet Muhammad ﷺ (an-Nasāʾī)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— النبي محمد ﷺ (النسائي)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— নবী মুহাম্মদ ﷺ (নাসায়ী)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— Hz. Muhammed ﷺ (Nesâî)"
+          }
+        }
+      }
+    },
+    "— Prophet Muhammad ﷺ (Muslim)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— النبي محمد ﷺ (مسلم)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— নবী মুহাম্মদ ﷺ (মুসলিম)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— Hz. Muhammed ﷺ (Müslim)"
+          }
+        }
+      }
+    },
+    "— Prophet Muhammad ﷺ (Tirmidhī)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— النبي محمد ﷺ (الترمذي)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— নবী মুহাম্মদ ﷺ (তিরমিযি)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— Hz. Muhammed ﷺ (Tirmizî)"
+          }
+        }
+      }
+    },
+    "— Qur'an · Al-Baqarah 2:45" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— القرآن · البقرة ٢:٤٥"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— কুরআন · আল-বাকারা ২:৪৫"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— Kur'an · Bakara 2:45"
+          }
+        }
+      }
+    },
+    "— Qur'an · Al-Baqarah 2:238" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— القرآن · البقرة ٢:٢٣٨"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— কুরআন · আল-বাকারা ২:২৩৮"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— Kur'an · Bakara 2:238"
+          }
+        }
+      }
+    },
+    "— Qur'an · Al-Muʾminūn 23:1–2" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— القرآن · المؤمنون ٢٣:١–٢"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— কুরআন · আল-মুমিনূন ২৩:১–২"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— Kur'an · Mü'minûn 23:1–2"
+          }
+        }
+      }
+    },
+    "— Qur'an · Al-ʿAnkabūt 29:45" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— القرآن · العنكبوت ٢٩:٤٥"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— কুরআন · আল-আনকাবূত ২৯:৪৫"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— Kur'an · Ankebût 29:45"
+          }
+        }
+      }
+    },
+    "— Qur'an · An-Nisā 4:103" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— القرآن · النساء ٤:١٠٣"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— কুরআন · আন-নিসা ৪:১০৩"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— Kur'an · Nisâ 4:103"
+          }
+        }
+      }
+    },
+    "— Qur'an · Hūd 11:114" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— القرآن · هود ١١:١١٤"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— কুরআন · হূদ ১১:১১৪"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— Kur'an · Hûd 11:114"
+          }
+        }
+      }
+    },
+    "— Qur'an · Ṭā Hā 20:14" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— القرآن · طه ٢٠:١٤"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— কুরআন · ত্বা-হা ২০:১৪"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "— Kur'an · Tâhâ 20:14"
+          }
+        }
+      }
+    },
+    "· Iqamah %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "· الإقامة %@"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "· ইকামাহ %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "· Kamet %@"
+          }
+        }
+      }
+    },
+    "%@" : {
+
+    },
+    "%@ %@ left" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ يتبقّى %2$@"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@ বাকি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@ kaldı"
+          }
+        }
+      }
+    },
+    "%@ in %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ خلال %2$@"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@ পর"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@ kaldı"
+          }
+        }
+      }
+    },
+    "%@ in %lld min" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ خلال %2$lld دقيقة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$lld মিনিটে %1$@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$lld dk sonra %1$@"
+          }
+        }
+      }
+    },
+    "%@ is at %@." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ في %2$@."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@-এ।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ saati: %2$@."
+          }
+        }
+      }
+    },
+    "%@ left" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتبقّى %1$@"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ বাকি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ kaldı"
+          }
+        }
+      }
+    },
+    "%@%@ min" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@ min"
+          }
+        }
+      }
+    },
+    "%lld min before" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قبل %lld دقيقة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld মিনিট আগে"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld dk önce"
+          }
+        }
+      }
+    },
+    "+%lld min" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%lld د"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%lld মিনিট"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+%lld dk"
+          }
+        }
+      }
+    },
+    "A nudge — and optionally the Adhan — at each prayer." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تنبيه — والأذان اختيارياً — عند كل صلاة."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রতি নামাজে একটি বার্তা — এবং চাইলে আজান।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her namazda bir hatırlatma — ve isterseniz ezan."
+          }
+        }
+      }
+    },
+    "About" : {
+
+    },
+    "Accurate Islamic prayer times with Adhan notifications, multiple calculation methods, and a beautiful countdown." : {
+
+    },
+    "Accurate times for your exact location" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أوقات دقيقة لموقعك بالضبط"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনার সঠিক অবস্থানের নির্ভুল সময়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tam konumunuz için doğru vakitler"
+          }
+        }
+      }
+    },
+    "Adhan (Madinah)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أذان (المدينة)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আজান (মদিনা)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ezan (Medine)"
+          }
+        }
+      }
+    },
+    "Adhan (Makkah)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أذان (مكة)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আজান (মক্কা)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ezan (Mekke)"
+          }
+        }
+      }
+    },
+    "Adhan %@" : {
+      "comment" : "Computed call-to-prayer time chip in the jamaat schedule, e.g. 'Adhan 04:45'",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأذان %@"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আজান %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ezan %@"
+          }
+        }
+      }
+    },
+    "Adhan before jamaat" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأذان قبل الجماعة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "জামাতের আগে আজান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cemaatten önce ezan"
+          }
+        }
+      }
+    },
+    "Adhan timing" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "توقيت الأذان"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আজানের সময়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ezan zamanlaması"
+          }
+        }
+      }
+    },
+    "Adhan Timing" : {
+
+    },
+    "Adjust the Hijri date to match your local moon-sighting." : {
+
+    },
+    "AH" : {
+      "comment" : "Hijri era suffix shown after the year, e.g. '22 Sha'ban 1447 AH'",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هـ"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "হিজরী"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hicri"
+          }
+        }
+      }
+    },
+    "All prayer times" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جميع أوقات الصلاة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সব নামাজের সময়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tüm namaz vakitleri"
+          }
+        }
+      }
+    },
+    "All Tracked Times" : {
+
+    },
+    "Allow ⌘ Esc to exit early" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السماح بالخروج مبكرًا عبر ⌘ Esc"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌘ Esc দিয়ে আগেই বের হওয়ার অনুমতি দিন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌘ Esc ile erken çıkışa izin ver"
+          }
+        }
+      }
+    },
+    "Allow notifications" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السماح بالإشعارات"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নোটিফিকেশনের অনুমতি দিন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildirimlere izin ver"
+          }
+        }
+      }
+    },
+    "Allowed" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مسموح"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "অনুমোদিত"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İzin verildi"
+          }
+        }
+      }
+    },
+    "An optional screen cover at prayer time." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غطاء اختياري للشاشة وقت الصلاة."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নামাজের সময় ঐচ্ছিক স্ক্রিন কভার।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namaz vaktinde isteğe bağlı ekran örtüsü."
+          }
+        }
+      }
+    },
+    "And establish prayer at the two ends of the day. Indeed, good deeds drive away evil deeds." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وَأَقِمِ الصَّلَاةَ طَرَفَيِ النَّهَارِ، إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "দিনের দুই প্রান্তে নামাজ কায়েম করো; নিশ্চয়ই সৎকর্ম মন্দ কাজকে মুছে দেয়।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gündüzün iki ucunda namaz kıl; şüphesiz iyilikler kötülükleri giderir."
+          }
+        }
+      }
+    },
+    "And seek help through patience and prayer." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আর ধৈর্য ও নামাজের মাধ্যমে সাহায্য প্রার্থনা করো।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sabır ve namazla yardım isteyin."
+          }
+        }
+      }
+    },
+    "Angle-based" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حسب الزاوية"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "কোণ-ভিত্তিক"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Açı tabanlı"
+          }
+        }
+      }
+    },
+    "Applied to every prayer. Expand a prayer below to override its sound, reminder, or iqamah." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يُطبَّق على كل صلاة. وسّع صلاةً أدناه لتجاوز صوتها أو تذكيرها أو إقامتها."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রতিটি নামাজে প্রযোজ্য। কোনো নামাজের শব্দ, রিমাইন্ডার বা ইকামত ওভাররাইড করতে নিচে সেটি প্রসারিত করুন।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her namaza uygulanır. Sesini, hatırlatmasını veya kametini değiştirmek için aşağıda bir namazı genişletin."
+          }
+        }
+      }
+    },
+    "Asr" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العصر"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আসর"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İkindi"
+          }
+        }
+      }
+    },
+    "Asr (madhab)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العصر (المذهب)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আসর (মাযহাব)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İkindi (mezhep)"
+          }
+        }
+      }
+    },
+    "Asr later in the afternoon" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العصر في وقت متأخّر بعد الظهر"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আসর বিকেলের দেরিতে"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asr öğleden sonra daha geç"
+          }
+        }
+      }
+    },
+    "Asr shadow factor" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معامل ظل العصر"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আসর ছায়া গুণক"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İkindi gölge katsayısı"
+          }
+        }
+      }
+    },
+    "Astronomically from your location" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فلكياً من موقعك"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনার অবস্থান থেকে জ্যোতির্বৈজ্ঞানিকভাবে"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konumunuzdan astronomik olarak"
+          }
+        }
+      }
+    },
+    "At jamaat" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عند الجماعة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "জামাতের সময়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cemaatte"
+          }
+        }
+      }
+    },
+    "Auto-detect method from location" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اكتشاف الطريقة من الموقع تلقائياً"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "অবস্থান থেকে পদ্ধতি স্বয়ংক্রিয় শনাক্ত করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yöntemi konumdan otomatik algıla"
+          }
+        }
+      }
+    },
+    "Auto-detect on — locating…" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التحديد التلقائي مُفعّل — جارٍ تحديد الموقع…"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্বয়ংক্রিয় শনাক্তকরণ চালু — অবস্থান খোঁজা হচ্ছে…"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otomatik algılama açık — konum bulunuyor…"
+          }
+        }
+      }
+    },
+    "Auto: %@ (%@)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تلقائي: %1$@ (%2$@)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্বয়ংক্রিয়: %1$@ (%2$@)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otomatik: %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "Automatic" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تلقائي"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্বয়ংক্রিয়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otomatik"
+          }
+        }
+      }
+    },
+    "Automatic (recommended)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تلقائي (موصى به)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্বয়ংক্রিয় (প্রস্তাবিত)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otomatik (önerilen)"
+          }
+        }
+      }
+    },
+    "Automatic method" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "طريقة تلقائية"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্বয়ংক্রিয় পদ্ধতি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otomatik yöntem"
+          }
+        }
+      }
+    },
+    "Automatic updates are enabled in a later build." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتم تفعيل التحديثات التلقائية في إصدار لاحق."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্বয়ংক্রিয় আপডেট পরবর্তী বিল্ডে চালু হবে।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otomatik güncellemeler sonraki bir sürümde etkinleşir."
+          }
+        }
+      }
+    },
+    "Automation" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأتمتة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্বয়ংক্রিয়করণ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otomasyon"
+          }
+        }
+      }
+    },
+    "Back" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رجوع"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "পেছনে"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geri"
+          }
+        }
+      }
+    },
+    "Based on the calculated Umm al-Qura calendar. Adjust if your country's date differs (it depends on local moon-sighting)." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بناءً على تقويم أم القرى المحسوب. عدِّله إذا كان تاريخ بلدك مختلفًا (فهو يعتمد على رؤية الهلال محليًا)."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "গণনাকৃত উম্মুল কুরা ক্যালেন্ডারের উপর ভিত্তি করে। আপনার দেশের তারিখ ভিন্ন হলে সমন্বয় করুন (এটি স্থানীয় চাঁদ দেখার উপর নির্ভর করে)।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hesaplanmış Ümmü'l-Kura takvimine dayanır. Ülkenizin tarihi farklıysa ayarlayın (yerel hilal gözlemine bağlıdır)."
+          }
+        }
+      }
+    },
+    "Behaviour" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السلوك"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আচরণ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Davranış"
+          }
+        }
+      }
+    },
+    "Best for your country" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأنسب لبلدك"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনার দেশের জন্য সেরা"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ülkeniz için en iyisi"
+          }
+        }
+      }
+    },
+    "Blocked in System Settings" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "محظور في إعدادات النظام"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সিস্টেম সেটিংসে অবরুদ্ধ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sistem Ayarları'nda engellendi"
+          }
+        }
+      }
+    },
+    "Blur intensity" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شدّة التمويه"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ব্লারের মাত্রা"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bulanıklık yoğunluğu"
+          }
+        }
+      }
+    },
+    "Calculated" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "محسوبة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "গণনাকৃত"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hesaplanmış"
+          }
+        }
+      }
+    },
+    "Calculation" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الحساب"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "গণনা"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hesaplama"
+          }
+        }
+      }
+    },
+    "Calculation method" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "طريقة الحساب"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "গণনা পদ্ধতি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hesaplama yöntemi"
+          }
+        }
+      }
+    },
+    "Calculation Method" : {
+
+    },
+    "Change any of this anytime from the menu-bar item → Settings." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غيّر أيًّا من ذلك في أي وقت من عنصر شريط القوائم ← الإعدادات."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মেনু-বার আইটেম → সেটিংস থেকে যেকোনো সময় এর যেকোনো কিছু পরিবর্তন করুন।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bunların herhangi birini istediğiniz zaman menü çubuğu öğesi → Ayarlar'dan değiştirin."
+          }
+        }
+      }
+    },
+    "Changing the language relaunches the app." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تغيير اللغة يعيد تشغيل التطبيق."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ভাষা পরিবর্তন করলে অ্যাপটি পুনরায় চালু হবে।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dili değiştirmek uygulamayı yeniden başlatır."
+          }
+        }
+      }
+    },
+    "Check for updates automatically" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التحقق من التحديثات تلقائياً"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্বয়ংক্রিয়ভাবে আপডেট দেখুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güncellemeleri otomatik denetle"
+          }
+        }
+      }
+    },
+    "Check for Updates…" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التحقق من التحديثات…"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপডেট দেখুন…"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güncellemeleri Denetle…"
+          }
+        }
+      }
+    },
+    "Choose how prayer times are calculated. Auto-detect picks the best method for your country." : {
+
+    },
+    "Choose method" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختيار الطريقة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "পদ্ধতি বেছে নিন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yöntem seçin"
+          }
+        }
+      }
+    },
+    "Choose what shows in your menu bar." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر ما يظهر في شريط القوائم."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মেনু বারে কী দেখাবে তা বেছে নিন।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menü çubuğunda ne görüneceğini seçin."
+          }
+        }
+      }
+    },
+    "Configuration" : {
+
+    },
+    "Congregation at %@." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الجماعة في %@."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "জামাত %@-এ।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cemaat: %@."
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متابعة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "চালিয়ে যান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Devam"
+          }
+        }
+      }
+    },
+    "Coordinates" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإحداثيات"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্থানাঙ্ক"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koordinatlar"
+          }
+        }
+      }
+    },
+    "Couldn't update login item: %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تعذّر تحديث عنصر بدء التشغيل: %@"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "লগইন আইটেম আপডেট করা যায়নি: %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giriş öğesi güncellenemedi: %@"
+          }
+        }
+      }
+    },
+    "Countdown only" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العد التنازلي فقط"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "শুধু কাউন্টডাউন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yalnızca geri sayım"
+          }
+        }
+      }
+    },
+    "Countdown shows" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العدّ التنازلي يعرض"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "কাউন্টডাউন দেখায়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geri sayım"
+          }
+        }
+      }
+    },
+    "Covers the entire screen during prayer time" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يغطّي الشاشة بالكامل أثناء وقت الصلاة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নামাজের সময় পুরো স্ক্রিন ঢেকে দেয়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namaz vaktinde tüm ekranı kaplar"
+          }
+        }
+      }
+    },
+    "Covers your screen at prayer times as a quiet discipline aid to encourage stepping away to pray." : {
+
+    },
+    "Day adjustment" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تعديل اليوم"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "দিন সমন্বয়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gün düzeltmesi"
+          }
+        }
+      }
+    },
+    "Default" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "افتراضي"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ডিফল্ট"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varsayılan"
+          }
+        }
+      }
+    },
+    "Defaults" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الافتراضيات"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ডিফল্ট"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varsayılanlar"
+          }
+        }
+      }
+    },
+    "Detect my location" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحديد موقعي"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আমার অবস্থান শনাক্ত করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konumumu bul"
+          }
+        }
+      }
+    },
+    "Detect where you are" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحديد مكانك"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনি কোথায় আছেন শনাক্ত করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bulunduğunuz yeri algıla"
+          }
+        }
+      }
+    },
+    "Detect your location to compute prayer times for where you are." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اكتشف موقعك لحساب أوقات الصلاة في مكانك."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনি যেখানে আছেন সেখানকার নামাজের সময় গণনা করতে আপনার অবস্থান শনাক্ত করুন।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bulunduğunuz yerin namaz vakitlerini hesaplamak için konumunuzu algılayın."
+          }
+        }
+      }
+    },
+    "Detecting location…" : {
+
+    },
+    "Detecting…" : {
+
+    },
+    "Dhuhr" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الظهر"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "যোহর"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öğle"
+          }
+        }
+      }
+    },
+    "Display" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العرض"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রদর্শন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Görünüm"
+          }
+        }
+      }
+    },
+    "Early reminder" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تذكير مبكر"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আগাম অনুস্মারক"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erken hatırlatma"
+          }
+        }
+      }
+    },
+    "Elevation (m)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الارتفاع (م)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "উচ্চতা (মি)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yükseklik (m)"
+          }
+        }
+      }
+    },
+    "Emergency exit" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خروج طارئ"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "জরুরি প্রস্থান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acil çıkış"
+          }
+        }
+      }
+    },
+    "Enable Focus Mode" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفعيل وضع التركيز"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ফোকাস মোড চালু করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odak Modunu Etkinleştir"
+          }
+        }
+      }
+    },
+    "Enable notifications" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفعيل الإشعارات"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "বিজ্ঞপ্তি চালু করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildirimleri etkinleştir"
+          }
+        }
+      }
+    },
+    "Enable prayer notifications" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفعيل إشعارات الصلاة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নামাজের নোটিফিকেশন সক্রিয় করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namaz bildirimlerini etkinleştir"
+          }
+        }
+      }
+    },
+    "Enter coordinates" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إدخال الإحداثيات"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্থানাঙ্ক লিখুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koordinatları girin"
+          }
+        }
+      }
+    },
+    "Enter the times your mosque announces. The Adhan reminder fires the minutes above before each." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل الأوقات التي يعلنها مسجدك. ينطلق تذكير الأذان بالدقائق أعلاه قبل كل وقت."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনার মসজিদ যে সময় ঘোষণা করে তা লিখুন। উপরের মিনিট অনুযায়ী প্রতিটির আগে আজানের রিমাইন্ডার বাজবে।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caminizin duyurduğu vakitleri girin. Ezan hatırlatıcısı her birinden yukarıdaki dakika kadar önce çalar."
+          }
+        }
+      }
+    },
+    "Establish prayer for My remembrance." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وَأَقِمِ الصَّلَاةَ لِذِكْرِي."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আমার স্মরণে নামাজ কায়েম করো।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beni anmak için namaz kıl."
+          }
+        }
+      }
+    },
+    "Fajr" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الفجر"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ফজর"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İmsak"
+          }
+        }
+      }
+    },
+    "Fajr & Isha only" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الفجر والعشاء فقط"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "শুধু ফজর ও ইশা"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yalnızca Sabah ve Yatsı"
+          }
+        }
+      }
+    },
+    "Fajr & Isha Only" : {
+
+    },
+    "Fajr angle" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زاوية الفجر"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ফজর কোণ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İmsak açısı"
+          }
+        }
+      }
+    },
+    "Finish" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إنهاء"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সম্পন্ন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitir"
+          }
+        }
+      }
+    },
+    "Focus" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التركيز"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ফোকাস"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odak"
+          }
+        }
+      }
+    },
+    "Focus Mode" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وضع التركيز"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ফোকাস মোড"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odak Modu"
+          }
+        }
+      }
+    },
+    "Focus Mode covers your whole screen at each obligatory prayer. It's a discipline aid, not a lock — Force Quit always works, and it won't engage while a fullscreen app (a call or presentation) is frontmost." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يغطّي وضع التركيز شاشتك بالكامل عند كل صلاة مفروضة. إنه وسيلة للمساعدة على الانضباط وليس قفلًا — فالإنهاء القسري (Force Quit) يعمل دائمًا، ولن يُفعَّل أثناء وجود تطبيق بملء الشاشة (مكالمة أو عرض تقديمي) في المقدمة."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ফোকাস মোড প্রতিটি ফরজ নামাজে আপনার পুরো স্ক্রিন ঢেকে দেয়। এটি একটি শৃঙ্খলা-সহায়ক, কোনো লক নয় — Force Quit সবসময় কাজ করে, এবং কোনো ফুলস্ক্রিন অ্যাপ (কল বা প্রেজেন্টেশন) সামনে থাকলে এটি চালু হবে না।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odak Modu her farz namazda tüm ekranınızı kaplar. Bu bir kilit değil, bir disiplin yardımcısıdır — Force Quit her zaman çalışır ve tam ekran bir uygulama (görüşme veya sunum) öndeyken devreye girmez."
+          }
+        }
+      }
+    },
+    "Focus Mode to pause and pray" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وضع التركيز للتوقّف والصلاة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "থামতে ও নামাজ পড়তে ফোকাস মোড"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durup namaz kılmak için Odak Modu"
+          }
+        }
+      }
+    },
+    "focus time remaining" : {
+
+    },
+    "Follow system" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اتباع النظام"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সিস্টেম অনুসরণ করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sistemi izle"
+          }
+        }
+      }
+    },
+    "Follow waqt for Sunrise & windows" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اتّبع الوقت للشروق والنوافذ"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সূর্যোদয় ও উইন্ডোর জন্য ওয়াক্ত অনুসরণ করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güneş doğuşu ve aralıklar için vakti izle"
+          }
+        }
+      }
+    },
+    "General" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عام"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সাধারণ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Genel"
+          }
+        }
+      }
+    },
+    "Get notified at each prayer time with customizable Adhan sounds. You can configure per-prayer notifications later in Settings." : {
+
+    },
+    "Get Started" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ابدأ"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "শুরু করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başlayın"
+          }
+        }
+      }
+    },
+    "Grant location access" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السماح بالوصول إلى الموقع"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "অবস্থান অ্যাক্সেসের অনুমতি দিন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konum erişimine izin ver"
+          }
+        }
+      }
+    },
+    "Guard strictly the prayers, especially the middle prayer, and stand before Allah devoutly obedient." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ وَقُومُوا لِلَّهِ قَانِتِينَ."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "তোমরা নামাজসমূহের প্রতি, বিশেষত মধ্যবর্তী নামাজের প্রতি যত্নবান হও এবং আল্লাহর সামনে বিনীতভাবে দাঁড়াও।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namazlara ve orta namaza devam edin; Allah'ın huzurunda gönülden boyun eğerek durun."
+          }
+        }
+      }
+    },
+    "Hanafi" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حنفي"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "হানাফি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hanefi"
+          }
+        }
+      }
+    },
+    "Hanafi (2×)" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حنفي (2×)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "হানাফি (২×)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hanefi (2×)"
+          }
+        }
+      }
+    },
+    "High" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عالية"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "বেশি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yüksek"
+          }
+        }
+      }
+    },
+    "High-latitude rule" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قاعدة خطوط العرض العالية"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "উচ্চ-অক্ষাংশ নিয়ম"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yüksek enlem kuralı"
+          }
+        }
+      }
+    },
+    "Hijri date" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التاريخ الهجري"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "হিজরী তারিখ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hicri tarih"
+          }
+        }
+      }
+    },
+    "How it looks" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كيف يبدو"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "এটি কেমন দেখাবে"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nasıl görünür"
+          }
+        }
+      }
+    },
+    "How should we calculate?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كيف نحسب الأوقات؟"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আমরা কীভাবে হিসাব করব?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nasıl hesaplayalım?"
+          }
+        }
+      }
+    },
+    "Icon + countdown" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أيقونة + عد تنازلي"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আইকন + কাউন্টডাউন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simge + geri sayım"
+          }
+        }
+      }
+    },
+    "Icon + name + countdown" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أيقونة + اسم + عد تنازلي"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আইকন + নাম + কাউন্টডাউন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simge + ad + geri sayım"
+          }
+        }
+      }
+    },
+    "Icon + name + time" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أيقونة + اسم + وقت"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আইকন + নাম + সময়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simge + ad + saat"
+          }
+        }
+      }
+    },
+    "Icon only" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أيقونة فقط"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "শুধু আইকন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yalnızca simge"
+          }
+        }
+      }
+    },
+    "in %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خلال %@"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ পর"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ kaldı"
+          }
+        }
+      }
+    },
+    "Indeed, prayer has been decreed upon the believers a decree of specified times." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নিশ্চয়ই নামাজ মুমিনদের উপর নির্দিষ্ট সময়ে ফরজ করা হয়েছে।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şüphesiz namaz, müminlere belirli vakitlerde farz kılınmıştır."
+          }
+        }
+      }
+    },
+    "Indeed, prayer restrains from immorality and wrongdoing." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নিশ্চয়ই নামাজ অশ্লীলতা ও মন্দ কাজ থেকে বিরত রাখে।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şüphesiz namaz, hayâsızlıktan ve kötülükten alıkoyar."
+          }
+        }
+      }
+    },
+    "Inherit default (%@)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الافتراضي (%@)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ডিফল্ট অনুসরণ (%@)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varsayılan (%@)"
+          }
+        }
+      }
+    },
+    "Iqamah — %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإقامة — %@"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ইকামাহ — %@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamet — %@"
+          }
+        }
+      }
+    },
+    "Iqamah %@" : {
+
+    },
+    "Iqamah notification" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إشعار الإقامة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ইকামাহ বিজ্ঞপ্তি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamet bildirimi"
+          }
+        }
+      }
+    },
+    "Iqamah offset" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إزاحة الإقامة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ইকামাহ অফসেট"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamet ofseti"
+          }
+        }
+      }
+    },
+    "Iqamah sound" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "صوت الإقامة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ইকামাহ শব্দ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamet sesi"
+          }
+        }
+      }
+    },
+    "Isha" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العشاء"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ইশা"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatsı"
+          }
+        }
+      }
+    },
+    "Isha (min after Maghrib)" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العشاء (دقائق بعد المغرب)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ইশা (মাগরিবের পর মিনিট)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatsı (akşamdan sonra dk)"
+          }
+        }
+      }
+    },
+    "Isha angle" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زاوية العشاء"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ইশা কোণ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatsı açısı"
+          }
+        }
+      }
+    },
+    "Isha as fixed minutes after Maghrib" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العشاء كدقائق ثابتة بعد المغرب"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মাগরিবের পর নির্দিষ্ট মিনিটে ইশা"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yatsı, akşamdan sonra sabit dakika"
+          }
+        }
+      }
+    },
+    "Ishraq" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإشراق"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ইশরাক"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İşrak"
+          }
+        }
+      }
+    },
+    "Ishraq begins approximately 15 minutes after sunrise." : {
+
+    },
+    "It's time for %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حان وقت %@"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ এর সময় হয়েছে"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ vakti geldi"
+          }
+        }
+      }
+    },
+    "It's time for %@ (%@)." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حان وقت %1$@ (%2$@)."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@-এর সময় হয়েছে (%2$@)।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ vakti geldi (%2$@)."
+          }
+        }
+      }
+    },
+    "Jamaat schedule" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جدول الجماعة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "জামাতের সময়সূচি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cemaat programı"
+          }
+        }
+      }
+    },
+    "Jamaat Schedule" : {
+
+    },
+    "Juristic & High Latitude" : {
+
+    },
+    "Keep astronomical times for non-jamaat events." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "احتفظ بالأوقات الفلكية للأحداث غير الجماعية."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "অ-জামাত ইভেন্টের জন্য জ্যোতির্বৈজ্ঞানিক সময় রাখুন।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cemaat dışı olaylar için astronomik vakitleri koru."
+          }
+        }
+      }
+    },
+    "Label style" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نمط التسمية"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "লেবেল স্টাইল"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etiket stili"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اللغة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ভাষা"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dil"
+          }
+        }
+      }
+    },
+    "Latitude" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خط العرض"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "অক্ষাংশ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlem"
+          }
+        }
+      }
+    },
+    "Latitude: %@" : {
+
+    },
+    "Launch at login" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التشغيل عند تسجيل الدخول"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "লগইনে চালু করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Girişte başlat"
+          }
+        }
+      }
+    },
+    "Lead time" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المهلة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আগাম সময়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Önceden süre"
+          }
+        }
+      }
+    },
+    "Let's set things up in a few quick steps. You can change any of this later in Settings." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لنُعِدّ التطبيق في بضع خطوات سريعة. يمكنك تغيير أيٍّ من ذلك لاحقاً من الإعدادات."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "চলুন কয়েকটি দ্রুত ধাপে সেট আপ করি। পরে সেটিংস থেকে যেকোনো কিছু পরিবর্তন করতে পারবেন।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Birkaç hızlı adımda kuralım. Bunların tümünü daha sonra Ayarlar'dan değiştirebilirsiniz."
+          }
+        }
+      }
+    },
+    "Location" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الموقع"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "অবস্থান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konum"
+          }
+        }
+      }
+    },
+    "Location & Time" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الموقع والوقت"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "অবস্থান ও সময়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konum ve Saat"
+          }
+        }
+      }
+    },
+    "Longitude" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خط الطول"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "দ্রাঘিমাংশ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boylam"
+          }
+        }
+      }
+    },
+    "Longitude: %@" : {
+
+    },
+    "Low" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "منخفضة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "কম"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Düşük"
+          }
+        }
+      }
+    },
+    "macOS is blocking notifications for Prayer Times. Enable them in System Settings → Notifications to receive prayer alerts." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يحظر macOS إشعارات تطبيق أوقات الصلاة. فعّلها من إعدادات النظام ثم الإشعارات لتصلك تنبيهات الصلاة."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS প্রেয়ার টাইমস-এর বিজ্ঞপ্তি ব্লক করছে। নামাজের সতর্কবার্তা পেতে সিস্টেম সেটিংস → বিজ্ঞপ্তি-তে সেগুলো চালু করুন।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS, Prayer Times bildirimlerini engelliyor. Namaz uyarılarını almak için Sistem Ayarları → Bildirimler bölümünden etkinleştirin."
+          }
+        }
+      }
+    },
+    "Madhab" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المذهب"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মাযহাব"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mezhep"
+          }
+        }
+      }
+    },
+    "Maghrib" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المغرب"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মাগরিব"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akşam"
+          }
+        }
+      }
+    },
+    "Manual" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يدوي"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ম্যানুয়াল"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elle"
+          }
+        }
+      }
+    },
+    "Manual (fixed)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يدوي (ثابت)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ম্যানুয়াল (নির্দিষ্ট)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elle (sabit)"
+          }
+        }
+      }
+    },
+    "Manual (Fixed)" : {
+
+    },
+    "Manual (jamaat)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يدوي (جماعة)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ম্যানুয়াল (জামাত)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elle (cemaat)"
+          }
+        }
+      }
+    },
+    "Manual Calculation Parameters" : {
+
+    },
+    "Manual parameters" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المعاملات اليدوية"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ম্যানুয়াল প্যারামিটার"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elle parametreler"
+          }
+        }
+      }
+    },
+    "Master switch for all prayer alerts." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المفتاح الرئيسي لجميع تنبيهات الصلاة."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সমস্ত নামাজ অ্যালার্টের প্রধান সুইচ।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tüm namaz uyarıları için ana anahtar."
+          }
+        }
+      }
+    },
+    "Master timezone" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المنطقة الزمنية الرئيسية"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রধান টাইমজোন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ana saat dilimi"
+          }
+        }
+      }
+    },
+    "Medium" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متوسطة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মাঝারি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orta"
+          }
+        }
+      }
+    },
+    "Menu bar" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شريط القوائم"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মেনু বার"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menü çubuğu"
+          }
+        }
+      }
+    },
+    "Menu bar label" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسمية شريط القوائم"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মেনু বার লেবেল"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menü çubuğu etiketi"
+          }
+        }
+      }
+    },
+    "Method" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الطريقة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "পদ্ধতি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yöntem"
+          }
+        }
+      }
+    },
+    "Middle of the night" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "منتصف الليل"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মধ্যরাত"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gece yarısı"
+          }
+        }
+      }
+    },
+    "minute" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "دقيقة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মিনিট"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dakika"
+          }
+        }
+      }
+    },
+    "minutes" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "دقائق"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মিনিট"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dakika"
+          }
+        }
+      }
+    },
+    "Mode" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الوضع"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মোড"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mod"
+          }
+        }
+      }
+    },
+    "Name + countdown" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاسم + عد تنازلي"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নাম + কাউন্টডাউন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ad + geri sayım"
+          }
+        }
+      }
+    },
+    "Name + time" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاسم + الوقت"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নাম + সময়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ad + saat"
+          }
+        }
+      }
+    },
+    "Next prayer" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصلاة التالية"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "পরবর্তী নামাজ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonraki namaz"
+          }
+        }
+      }
+    },
+    "No upcoming prayer times" : {
+
+    },
+    "None" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بلا"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "কোনোটি নয়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yok"
+          }
+        }
+      }
+    },
+    "Nothing leaves your Mac — the location is used only to compute times." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا شيء يغادر جهاز Mac — يُستخدم الموقع فقط لحساب الأوقات."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "কিছুই আপনার Mac ছাড়ে না — অবস্থান শুধু সময় হিসাব করতে ব্যবহৃত হয়।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiçbir şey Mac'inizden çıkmaz — konum yalnızca vakitleri hesaplamak için kullanılır."
+          }
+        }
+      }
+    },
+    "Notifications" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإشعارات"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "বিজ্ঞপ্তি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildirimler"
+          }
+        }
+      }
+    },
+    "Notifications and the Adhan, your way" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإشعارات والأذان كما تريد"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নোটিফিকেশন ও আজান, আপনার পছন্দমতো"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildirimler ve ezan, sizin tarzınızda"
+          }
+        }
+      }
+    },
+    "Notifications are disabled in iOS Settings. Please enable them to receive prayer alerts." : {
+
+    },
+    "Notify" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تنبيه"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "জানান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildir"
+          }
+        }
+      }
+    },
+    "Obligatory prayers" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصلوات المفروضة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ফরজ নামাজ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farz namazlar"
+          }
+        }
+      }
+    },
+    "Obligatory Prayers" : {
+
+    },
+    "Off" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معطّل"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "বন্ধ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kapalı"
+          }
+        }
+      }
+    },
+    "On" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مفعّل"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "চালু"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Açık"
+          }
+        }
+      }
+    },
+    "One-seventh of the night" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سُبع الليل"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "রাতের এক-সপ্তমাংশ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gecenin yedide biri"
+          }
+        }
+      }
+    },
+    "Opaque" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معتم"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "অস্বচ্ছ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mat"
+          }
+        }
+      }
+    },
+    "Open System Settings" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فتح إعدادات النظام"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সিস্টেম সেটিংস খুলুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sistem Ayarları'nı Aç"
+          }
+        }
+      }
+    },
+    "Opens the first-launch setup wizard to reconfigure location and calculation method." : {
+
+    },
+    "Optional Times" : {
+
+    },
+    "Panel" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اللوحة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্যানেল"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panel"
+          }
+        }
+      }
+    },
+    "Pause and pray" : {
+
+    },
+    "Per prayer" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لكل صلاة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রতি নামাজ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her namaz için"
+          }
+        }
+      }
+    },
+    "Per-prayer offsets (minutes)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إزاحات لكل صلاة (دقائق)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রতি নামাজের অফসেট (মিনিট)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namaz başına ofset (dakika)"
+          }
+        }
+      }
+    },
+    "Per-Prayer Offsets (Minutes)" : {
+
+    },
+    "Per-prayer overrides" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تجاوزات لكل صلاة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রতি-নামাজ ওভাররাইড"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namaza özel geçersiz kılmalar"
+          }
+        }
+      }
+    },
+    "Per-Prayer Status" : {
+
+    },
+    "Pick a method and your Asr madhab." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر طريقة الحساب ومذهب العصر."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "একটি পদ্ধতি ও আপনার আসরের মাযহাব বেছে নিন।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bir yöntem ve Asr mezhebinizi seçin."
+          }
+        }
+      }
+    },
+    "Pick explicitly" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحديد يدوي"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্পষ্টভাবে নির্বাচন করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elle seç"
+          }
+        }
+      }
+    },
+    "Pick it yourself" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اخترها بنفسك"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নিজে বেছে নিন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kendiniz seçin"
+          }
+        }
+      }
+    },
+    "Play full Adhan audio" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تشغيل الأذان كاملاً"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সম্পূর্ণ আজান বাজান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tam ezanı çal"
+          }
+        }
+      }
+    },
+    "Play the full Adhan at prayer time" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تشغيل الأذان كاملاً وقت الصلاة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নামাজের সময় সম্পূর্ণ আজান বাজান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namaz vaktinde tam ezanı çal"
+          }
+        }
+      }
+    },
+    "Prayer duration" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مدة الصلاة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নামাজের সময়কাল"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namaz süresi"
+          }
+        }
+      }
+    },
+    "Prayer is light." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصَّلَاةُ نُورٌ."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নামাজ হলো নূর।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namaz nurdur."
+          }
+        }
+      }
+    },
+    "Prayer Times" : {
+
+    },
+    "Prayer times are calculated based on your geographic location. Enable automatic detection or enter coordinates manually." : {
+
+    },
+    "Prayer times are ready. You can adjust all settings anytime from the gear icon." : {
+
+    },
+    "Prayer Times hasn't been granted notification permission yet. Send a sample notification below to trigger the macOS prompt." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم يُمنح تطبيق أوقات الصلاة إذن الإشعارات بعد. أرسل إشعارًا تجريبيًا أدناه لإظهار طلب الإذن في macOS."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রেয়ার টাইমস-কে এখনও বিজ্ঞপ্তির অনুমতি দেওয়া হয়নি। macOS প্রম্পট চালু করতে নিচে একটি নমুনা বিজ্ঞপ্তি পাঠান।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prayer Times'a henüz bildirim izni verilmedi. macOS istemini açmak için aşağıdan örnek bir bildirim gönderin."
+          }
+        }
+      }
+    },
+    "Prayer-time notification" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إشعار وقت الصلاة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নামাজের সময়ের বিজ্ঞপ্তি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namaz vakti bildirimi"
+          }
+        }
+      }
+    },
+    "Press ⌘ Esc to exit" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اضغط ⌘ Esc للخروج"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রস্থান করতে ⌘ Esc চাপুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çıkmak için ⌘ Esc'e basın"
+          }
+        }
+      }
+    },
+    "Preview sound" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معاينة الصوت"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "শব্দ প্রিভিউ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesi önizle"
+          }
+        }
+      }
+    },
+    "Quit" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إنهاء"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রস্থান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çık"
+          }
+        }
+      }
+    },
+    "Remind" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تذكير"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মনে করান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hatırlat"
+          }
+        }
+      }
+    },
+    "Reminder sound" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "صوت التذكير"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "অনুস্মারক শব্দ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hatırlatma sesi"
+          }
+        }
+      }
+    },
+    "Resolved" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المحدد"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নির্ধারিত"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Çözümlenen"
+          }
+        }
+      }
+    },
+    "Resolves your country to a method; you can still override it below." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يحدد طريقتك حسب بلدك، ويمكنك تغييرها أدناه."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনার দেশ অনুযায়ী পদ্ধতি নির্ধারণ করে; নিচে আপনি তা পরিবর্তন করতে পারেন।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ülkenize göre bir yöntem seçer; yine de aşağıdan değiştirebilirsiniz."
+          }
+        }
+      }
+    },
+    "Run setup again" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعادة الإعداد"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আবার সেটআপ চালান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kurulumu yeniden çalıştır"
+          }
+        }
+      }
+    },
+    "Settings…" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإعدادات…"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সেটিংস…"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayarlar…"
+          }
+        }
+      }
+    },
+    "Setup" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإعداد"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সেটআপ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kurulum"
+          }
+        }
+      }
+    },
+    "Shafiʿi · Mālikī · Ḥanbalī" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شافعي · مالكي · حنبلي"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "শাফিঈ · মালিকী · হাম্বলী"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şafiî · Mâlikî · Hanbelî"
+          }
+        }
+      }
+    },
+    "Show Hijri date" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إظهار التاريخ الهجري"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "হিজরি তারিখ দেখান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hicri tarihi göster"
+          }
+        }
+      }
+    },
+    "Show Ishraq time" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إظهار وقت الإشراق"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ইশরাকের সময় দেখান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İşrak vaktini göster"
+          }
+        }
+      }
+    },
+    "Show the Hijri date in the panel" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إظهار التاريخ الهجري في اللوحة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্যানেলে হিজরি তারিখ দেখান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panelde Hicri tarihi göster"
+          }
+        }
+      }
+    },
+    "Show the Ishraq time in the panel" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إظهار وقت الإشراق في اللوحة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্যানেলে ইশরাকের সময় দেখান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panelde İşrak vaktini göster"
+          }
+        }
+      }
+    },
+    "Skip setup" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تخطّي الإعداد"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সেটআপ এড়িয়ে যান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kurulumu atla"
+          }
+        }
+      }
+    },
+    "So we compute the right times for your place." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لنحسب الأوقات الصحيحة لمكانك."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "যাতে আমরা আপনার স্থানের সঠিক সময় হিসাব করতে পারি।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yerinize doğru vakitleri hesaplayalım diye."
+          }
+        }
+      }
+    },
+    "Soft chime" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رنين خفيف"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "মৃদু ধ্বনি"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yumuşak çıngırak"
+          }
+        }
+      }
+    },
+    "Sound" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصوت"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "শব্দ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ses"
+          }
+        }
+      }
+    },
+    "Source" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المصدر"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "উৎস"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaynak"
+          }
+        }
+      }
+    },
+    "Standard" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قياسي"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্ট্যান্ডার্ড"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standart"
+          }
+        }
+      }
+    },
+    "Standard (1×)" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قياسي (1×)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্ট্যান্ডার্ড (১×)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standart (1×)"
+          }
+        }
+      }
+    },
+    "Standard (Shafiʿi)" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قياسي (شافعي)"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্ট্যান্ডার্ড (শাফিঈ)"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standart (Şafiî)"
+          }
+        }
+      }
+    },
+    "Start Using Prayer Times" : {
+
+    },
+    "Startup" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بدء التشغيل"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "স্টার্টআপ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Başlangıç"
+          }
+        }
+      }
+    },
+    "Stay on time" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حافظ على وقتك"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সময়মতো থাকুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaktinde olun"
+          }
+        }
+      }
+    },
+    "Step %lld of %lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الخطوة %1$lld من %2$lld"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ধাপ %1$lld / %2$lld"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adım %1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "Stop" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إيقاف"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "থামান"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durdur"
+          }
+        }
+      }
+    },
+    "Stop Adhan" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إيقاف الأذان"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আজান বন্ধ করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ezanı Durdur"
+          }
+        }
+      }
+    },
+    "Successful indeed are the believers — those who are humble in their prayer." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قَدْ أَفْلَحَ الْمُؤْمِنُونَ، الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নিশ্চয়ই সফল হয়েছে মুমিনগণ, যারা তাদের নামাজে বিনয়াবনত।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Müminler gerçekten kurtuluşa ermiştir; onlar ki namazlarında huşû içindedir."
+          }
+        }
+      }
+    },
+    "Sunrise" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الشروق"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সূর্যোদয়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güneş"
+          }
+        }
+      }
+    },
+    "Sunrise/Maghrib horizon" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أفق الشروق/المغرب"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সূর্যোদয়/মাগরিব দিগন্ত"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güneş/Akşam ufku"
+          }
+        }
+      }
+    },
+    "Takbir" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تكبير"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "তাকবির"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tekbir"
+          }
+        }
+      }
+    },
+    "Test" : {
+
+    },
+    "The Adhan reminder fires this many minutes before the jamaat time set below." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ينطلق تذكير الأذان قبل وقت الجماعة المحدد أدناه بهذا العدد من الدقائق."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নিচে নির্ধারিত জামাতের সময়ের এত মিনিট আগে আজানের রিমাইন্ডার বাজবে।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ezan hatırlatıcısı, aşağıda ayarlanan cemaat vaktinden bu kadar dakika önce çalar."
+          }
+        }
+      }
+    },
+    "The closest a servant is to his Lord is while prostrating." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنْ رَبِّهِ وَهُوَ سَاجِدٌ."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "বান্দা তার রবের সবচেয়ে নিকটবর্তী হয় সিজদারত অবস্থায়।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kulun Rabbine en yakın olduğu an secde hâlidir."
+          }
+        }
+      }
+    },
+    "The coolness of my eyes is in prayer." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وَجُعِلَتْ قُرَّةُ عَيْنِي فِي الصَّلَاةِ."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আমার চোখের শীতলতা রাখা হয়েছে নামাজে।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gözümün nuru namazda kılındı."
+          }
+        }
+      }
+    },
+    "The first deed for which a servant will be held accountable on the Day of Judgment is the prayer." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أَوَّلُ مَا يُحَاسَبُ بِهِ الْعَبْدُ يَوْمَ الْقِيَامَةِ الصَّلَاةُ."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "কিয়ামতের দিন বান্দার সর্বপ্রথম যে আমলের হিসাব নেওয়া হবে তা হলো নামাজ।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kıyamet günü kulun hesaba çekileceği ilk amel namazdır."
+          }
+        }
+      }
+    },
+    "The focus cover will dismiss automatically after the duration. If the dismiss button is disabled, the overlay is persistent to aid discipline." : {
+
+    },
+    "These defaults apply to all prayers unless overridden individually." : {
+
+    },
+    "Time for %@" : {
+
+    },
+    "Time left in current prayer" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الوقت المتبقّي للصلاة الحالية"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "বর্তমান নামাজের বাকি সময়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mevcut namazda kalan süre"
+          }
+        }
+      }
+    },
+    "Time source" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مصدر الأوقات"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সময়ের উৎস"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vakit kaynağı"
+          }
+        }
+      }
+    },
+    "Times" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأوقات"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সময়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vakitler"
+          }
+        }
+      }
+    },
+    "Times are computed astronomically from your location." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تُحسب الأوقات فلكياً من موقعك."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সময় আপনার অবস্থান থেকে জ্যোতির্বৈজ্ঞানিকভাবে গণনা করা হয়।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vakitler konumunuzdan astronomik olarak hesaplanır."
+          }
+        }
+      }
+    },
+    "Times are taken from the fixed schedule you enter below — ideal where the mosque announces set jamaat times (e.g. Bangladesh)." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تُؤخذ الأوقات من الجدول الثابت الذي تُدخله أدناه — مثالي حيث يُعلن المسجد أوقات جماعة محددة (مثل بنغلاديش)."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "নিচে আপনি যে নির্দিষ্ট সময়সূচি লেখেন তা থেকে সময় নেওয়া হয় — যেখানে মসজিদ নির্দিষ্ট জামাতের সময় ঘোষণা করে সেখানে আদর্শ (যেমন বাংলাদেশ)।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vakitler aşağıda girdiğiniz sabit programdan alınır — caminin belirli cemaat vakitleri duyurduğu yerler için idealdir (ör. Bangladeş)."
+          }
+        }
+      }
+    },
+    "Times as announced by your mosque. The Adhan chip is the jamaat time minus the offset above." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأوقات كما يعلنها مسجدك. ملصق الأذان هو وقت الجماعة مطروحاً منه الإزاحة أعلاه."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনার মসজিদের ঘোষণা অনুযায়ী সময়। আজানের চিপ হলো জামাতের সময় থেকে উপরের অফসেট বাদ দেওয়া।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caminizin duyurduğu vakitler. Ezan etiketi, cemaat vaktinden yukarıdaki farkın çıkarılmasıdır."
+          }
+        }
+      }
+    },
+    "Timezone" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المنطقة الزمنية"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "টাইমজোন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saat dilimi"
+          }
+        }
+      }
+    },
+    "Today" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اليوم"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আজ"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bugün"
+          }
+        }
+      }
+    },
+    "Trigger on" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التفعيل عند"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "যখন চালু হবে"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Şu durumda"
+          }
+        }
+      }
+    },
+    "Triggers an immediate test notification with the 'Takbir' sound so you can verify banner & sound settings." : {
+
+    },
+    "Try it for 10 seconds" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جرّبه لمدة 10 ثوانٍ"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "১০ সেকেন্ডের জন্য চেষ্টা করুন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10 saniye deneyin"
+          }
+        }
+      }
+    },
+    "Updates" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التحديثات"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপডেট"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Güncellemeler"
+          }
+        }
+      }
+    },
+    "Version" : {
+
+    },
+    "Welcome to Prayer Times" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحباً بك في أوقات الصلاة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "প্রেয়ার টাইমসে স্বাগতম"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prayer Times'a hoş geldiniz"
+          }
+        }
+      }
+    },
+    "Where are you?" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أين أنت؟"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনি কোথায়?"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neredesiniz?"
+          }
+        }
+      }
+    },
+    "You can fine-tune each prayer — sounds, early reminders, iqamah — in Settings later." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يمكنك ضبط كل صلاة — الأصوات والتذكيرات المبكرة والإقامة — لاحقاً من الإعدادات."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "পরে সেটিংসে প্রতিটি নামাজ — শব্দ, আগাম রিমাইন্ডার, ইকামত — সূক্ষ্মভাবে ঠিক করতে পারবেন।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her namazı — sesler, erken hatırlatmalar, kamet — daha sonra Ayarlar'da ince ayarlayabilirsiniz."
+          }
+        }
+      }
+    },
+    "You're all set" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كل شيء جاهز"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সব প্রস্তুত"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Her şey hazır"
+          }
+        }
+      }
+    },
+    "You're All Set!" : {
+
+    },
+    "Your Location" : {
+
+    },
+    "Your mosque's jamaat times" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أوقات جماعة مسجدك"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনার মসজিদের জামাতের সময়"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caminizin cemaat vakitleri"
+          }
+        }
+      }
+    },
+    "Your timezone (%@) doesn't match your detected location (%@). Prayer times may be wrong — switch the timezone to “Follow system” or the matching zone." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "منطقتك الزمنية (%@) لا تطابق موقعك المُكتشَف (%@). قد تكون أوقات الصلاة خاطئة — غيّر المنطقة الزمنية إلى «اتباع النظام» أو المنطقة المطابقة."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "আপনার টাইমজোন (%@) আপনার শনাক্ত করা অবস্থানের (%@) সাথে মেলে না। নামাজের সময় ভুল হতে পারে — টাইমজোন “সিস্টেম অনুসরণ করুন” বা মিলে যাওয়া জোনে পরিবর্তন করুন।"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saat diliminiz (%@) algılanan konumunuzla (%@) eşleşmiyor. Namaz vakitleri yanlış olabilir — saat dilimini “Sistemi izle” veya eşleşen dilime değiştirin."
+          }
+        }
+      }
+    },
+    "Zone" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المنطقة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "জোন"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bölge"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
