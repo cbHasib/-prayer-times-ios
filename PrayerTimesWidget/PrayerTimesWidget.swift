@@ -1,4 +1,5 @@
 import WidgetKit
+import ActivityKit
 import SwiftUI
 import PrayerKit
 
@@ -333,8 +334,7 @@ struct MediumWidgetView: View {
     }
 }
 
-@main
-struct PrayerTimesWidget: Widget {
+struct PrayerTimesStaticWidget: Widget {
     let kind: String = "PrayerTimesWidget"
 
     var body: some WidgetConfiguration {
@@ -344,5 +344,106 @@ struct PrayerTimesWidget: Widget {
         .configurationDisplayName("Prayer Times Widget")
         .description("View today's prayer times and countdown to the next prayer.")
         .supportedFamilies([.systemSmall, .systemMedium])
+    }
+}
+
+struct PrayerTimesLiveActivity: Widget {
+    var body: some WidgetConfiguration {
+        ActivityConfiguration(for: PrayerActivityAttributes.self) { context in
+            // Lock Screen UI / Notification Center UI
+            HStack(spacing: 16) {
+                VStack(alignment: .leading, spacing: 4) {
+                    HStack(spacing: 6) {
+                        Image(systemName: "clock.badge.checkmark.fill")
+                            .foregroundStyle(Color(red: 0.18, green: 0.58, blue: 0.247))
+                        Text("\(context.state.nextPrayerName) Focus")
+                            .font(.headline)
+                    }
+                    Text("Focus Mode Active")
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+                
+                Spacer()
+                
+                VStack(alignment: .trailing, spacing: 4) {
+                    Text(context.state.nextPrayerTime, style: .timer)
+                        .font(.system(.title2, design: .monospaced))
+                        .fontWeight(.bold)
+                        .foregroundStyle(Color(red: 0.18, green: 0.58, blue: 0.247))
+                    
+                    (Text("Ends at ") + Text(context.state.nextPrayerTime, style: .time))
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+            }
+            .padding()
+            .activityBackgroundTint(Color(.systemBackground).opacity(0.8))
+            .activitySystemActionForegroundColor(Color(red: 0.18, green: 0.58, blue: 0.247))
+            
+        } dynamicIsland: { context in
+            DynamicIsland {
+                // Expanded Dynamic Island
+                DynamicIslandExpandedRegion(.leading) {
+                    VStack(alignment: .leading, spacing: 2) {
+                        Text("\(context.state.nextPrayerName) Focus")
+                            .font(.headline)
+                            .foregroundStyle(Color(red: 0.18, green: 0.58, blue: 0.247))
+                        (Text("Ends ") + Text(context.state.nextPrayerTime, style: .time))
+                            .font(.subheadline)
+                            .foregroundStyle(.secondary)
+                    }
+                    .padding(.leading, 8)
+                }
+                
+                DynamicIslandExpandedRegion(.trailing) {
+                    VStack(alignment: .trailing) {
+                        Image(systemName: "clock.fill")
+                            .font(.title2)
+                            .foregroundStyle(Color(red: 0.18, green: 0.58, blue: 0.247))
+                    }
+                    .padding(.trailing, 8)
+                }
+                
+                DynamicIslandExpandedRegion(.bottom) {
+                    VStack(alignment: .leading, spacing: 4) {
+                        HStack {
+                            Text("Focus Period Remaining")
+                                .font(.caption)
+                                .foregroundStyle(.secondary)
+                            Spacer()
+                            Text(context.state.nextPrayerTime, style: .timer)
+                                .font(.system(.title3, design: .monospaced))
+                                .fontWeight(.bold)
+                                .foregroundStyle(Color(red: 0.18, green: 0.58, blue: 0.247))
+                        }
+                    }
+                    .padding(.horizontal, 8)
+                    .padding(.top, 4)
+                }
+            } compactLeading: {
+                Image(systemName: "clock.fill")
+                    .foregroundStyle(Color(red: 0.18, green: 0.58, blue: 0.247))
+            } compactTrailing: {
+                Text(context.state.nextPrayerTime, style: .timer)
+                    .font(.system(.caption, design: .monospaced))
+                    .fontWeight(.semibold)
+                    .foregroundStyle(Color(red: 0.18, green: 0.58, blue: 0.247))
+                    .frame(maxWidth: 54)
+            } minimal: {
+                Image(systemName: "clock.fill")
+                    .foregroundStyle(Color(red: 0.18, green: 0.58, blue: 0.247))
+            }
+            .widgetURL(URL(string: "prayertimes://"))
+            .keylineTint(Color(red: 0.18, green: 0.58, blue: 0.247))
+        }
+    }
+}
+
+@main
+struct PrayerTimesWidgetBundle: WidgetBundle {
+    var body: some Widget {
+        PrayerTimesStaticWidget()
+        PrayerTimesLiveActivity()
     }
 }

@@ -1,6 +1,7 @@
 import Foundation
 import Observation
 import PrayerKit
+import ActivityKit
 
 /// The live clock that drives the iOS app. It computes today's (and tomorrow's)
 /// prayer times from `PrayerKit` using the current `SettingsStore` inputs, tracks
@@ -26,6 +27,9 @@ final class PrayerClock {
     private(set) var isPreviewingFocus = false
     private(set) var previewStartTime: Date? = nil
     private var dismissedFocusPrayers = Set<String>()
+    
+    private var lastLiveActivityNextTime: Date? = nil
+    private var lastLiveActivityEnabled = false
 
     /// Cached inputs the current `today`/`tomorrow` were computed from, plus the
     /// civil day, so `tick()` can detect both setting changes and rollover.
@@ -55,6 +59,7 @@ final class PrayerClock {
         // asynchronously, so reschedule once it does.
         scheduleNotifications()
         startTicking()
+        updateLiveActivity(force: true)
         Task { [weak self] in
             await notifications.requestAuthorization()
             self?.scheduleNotifications()
@@ -129,15 +134,18 @@ final class PrayerClock {
         let inputs = settings.resolvedInputs
         let tz = TimeZone(identifier: inputs.timeZoneID) ?? .current
         let day = Self.civilDay(of: now, in: tz)
+        var forceActivityUpdate = false
         if inputs != lastInputs || day != lastDay {
             lastInputs = inputs
             lastDay = day
             today = Self.compute(inputs: inputs, dayOffset: 0, from: now)
             tomorrow = Self.compute(inputs: inputs, dayOffset: 1, from: now)
             scheduleNotifications()
+            forceActivityUpdate = true
         }
         firePrayerSoundIfCrossed(from: previousNow, to: now)
         updateFocusModeState()
+        updateLiveActivity(force: forceActivityUpdate)
         previousNow = now
     }
 
@@ -218,6 +226,73 @@ final class PrayerClock {
             }
         }
         self.activeFocusPrayer = foundActiveFocus
+    }
+
+    private func updateLiveActivity(force: Bool = false) {
+        #if canImport(ActivityKit)
+        let enabled = settings.settings.focusDynamicIslandEnabled
+        let activeFocus = activeFocusPrayer
+
+        // Only show Live Activity when focus Dynamic Island is enabled AND we are actively in focus mode (either real or preview)
+        guard enabled, let prayer = activeFocus else {
+            // End all activities if disabled or not in focus mode
+            Task { @MainActor in
+                for activity in Activity<PrayerActivityAttributes>.activities {
+                    await activity.end(nil, dismissalPolicy: .immediate)
+                }
+            }
+            lastLiveActivityNextTime = nil
+            lastLiveActivityEnabled = enabled
+            return
+        }
+
+        let focusEndTime: Date
+        if isPreviewingFocus {
+            focusEndTime = (previewStartTime ?? Date()).addingTimeInterval(10)
+        } else {
+            guard let prayerTime = today.times[prayer] else { return }
+            focusEndTime = prayerTime.addingTimeInterval(Double(settings.settings.focusDurationMinutes) * 60)
+        }
+
+        guard force || focusEndTime != lastLiveActivityNextTime || enabled != lastLiveActivityEnabled else {
+            return
+        }
+
+        lastLiveActivityNextTime = focusEndTime
+        lastLiveActivityEnabled = enabled
+
+        var todayPrayersDict: [String: Date] = [:]
+        for (p, date) in today.times {
+            todayPrayersDict[p.rawValue] = date
+        }
+
+        let state = PrayerActivityAttributes.ContentState(
+            nextPrayerName: PrayerFormatting.name(prayer),
+            nextPrayerTime: focusEndTime,
+            secondsUntilNext: focusEndTime.timeIntervalSince(Date())
+        )
+
+        // Find existing activity
+        if Activity<PrayerActivityAttributes>.activities.first != nil {
+            Task { @MainActor in
+                if let existing = Activity<PrayerActivityAttributes>.activities.first {
+                    await existing.update(ActivityContent(state: state, staleDate: nil))
+                }
+            }
+        } else {
+            // Request a new activity
+            let attributes = PrayerActivityAttributes(todayPrayers: todayPrayersDict)
+            do {
+                _ = try Activity.request(
+                    attributes: attributes,
+                    content: ActivityContent(state: state, staleDate: nil),
+                    pushType: nil
+                )
+            } catch {
+                print("Failed to start Live Activity: \(error)")
+            }
+        }
+        #endif
     }
 
     private static func dayKey(_ date: Date, in timeZone: TimeZone) -> String {

@@ -53,6 +53,7 @@ targets:
           - "**/README.md"
       - path: PrayerTimesiOS/App/PrayerFormatting.swift
       - path: PrayerTimesiOS/App/ManualSchedule.swift
+      - path: PrayerTimesiOS/App/PrayerActivityAttributes.swift
     dependencies:
       - package: PrayerKit
         product: PrayerKit
