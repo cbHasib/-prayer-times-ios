@@ -52,7 +52,7 @@ struct SettingsView: View {
                             .foregroundStyle(.secondary)
                     }
 
-                    Link(destination: URL(string: "https://github.com/cbhasib/prayer-time-ios")!) {
+                    Link(destination: URL(string: "https://github.com/cbhasib/prayer-times-ios")!) {
                         HStack {
                             Label("Source Code", systemImage: "chevron.left.forwardslash.chevron.right")
                             Spacer()
