@@ -32,6 +32,8 @@ struct FocusModeSettingsView: View {
                     }
 
                     Toggle("Enable Dismiss Button", isOn: $settings.settings.focusEmergencyExitEnabled)
+                    Toggle("Play Adhan Sound during Focus", isOn: $settings.settings.focusPlaySoundEnabled)
+                    Toggle("Enable Dynamic Island Support", isOn: $settings.settings.focusDynamicIslandEnabled)
                 } header: {
                     Text("Configuration")
                 } footer: {
@@ -44,6 +46,12 @@ struct FocusModeSettingsView: View {
                         dismiss()
                     } label: {
                         Label("Preview Focus Mode (10s)", systemImage: "eye.fill")
+                    }
+
+                    Button {
+                        clock.previewFocusSound()
+                    } label: {
+                        Label("Preview Focus Sound (10s)", systemImage: "play.circle.fill")
                     }
                 } header: {
                     Text("Preview")

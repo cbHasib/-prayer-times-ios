@@ -231,6 +231,8 @@ public struct AppSettings: Codable, Sendable, Equatable {
     public var focusBlurIntensity: FocusBlurIntensity
     public var focusTrigger: FocusTrigger
     public var focusEmergencyExitEnabled: Bool
+    public var focusPlaySoundEnabled: Bool
+    public var focusDynamicIslandEnabled: Bool
 
     public var launchAtLogin: Bool
     public var languageOverride: String?            // BCP-47, nil = follow system
@@ -266,6 +268,8 @@ public struct AppSettings: Codable, Sendable, Equatable {
         focusBlurIntensity: FocusBlurIntensity = .medium,
         focusTrigger: FocusTrigger = .obligatory,
         focusEmergencyExitEnabled: Bool = true,
+        focusPlaySoundEnabled: Bool = true,
+        focusDynamicIslandEnabled: Bool = true,
         launchAtLogin: Bool = false,
         languageOverride: String? = nil,
         masterNotificationsEnabled: Bool = true,
@@ -296,6 +300,8 @@ public struct AppSettings: Codable, Sendable, Equatable {
         self.focusBlurIntensity = focusBlurIntensity
         self.focusTrigger = focusTrigger
         self.focusEmergencyExitEnabled = focusEmergencyExitEnabled
+        self.focusPlaySoundEnabled = focusPlaySoundEnabled
+        self.focusDynamicIslandEnabled = focusDynamicIslandEnabled
         self.launchAtLogin = launchAtLogin
         self.languageOverride = languageOverride
         self.masterNotificationsEnabled = masterNotificationsEnabled
@@ -337,6 +343,8 @@ public struct AppSettings: Codable, Sendable, Equatable {
         focusBlurIntensity = try get(.focusBlurIntensity, d.focusBlurIntensity)
         focusTrigger = try get(.focusTrigger, d.focusTrigger)
         focusEmergencyExitEnabled = try get(.focusEmergencyExitEnabled, d.focusEmergencyExitEnabled)
+        focusPlaySoundEnabled = try get(.focusPlaySoundEnabled, d.focusPlaySoundEnabled)
+        focusDynamicIslandEnabled = try get(.focusDynamicIslandEnabled, d.focusDynamicIslandEnabled)
         launchAtLogin = try get(.launchAtLogin, d.launchAtLogin)
         languageOverride = try c.decodeIfPresent(String.self, forKey: .languageOverride)
         masterNotificationsEnabled = try get(.masterNotificationsEnabled, d.masterNotificationsEnabled)

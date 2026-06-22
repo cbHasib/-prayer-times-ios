@@ -152,6 +152,7 @@ final class PrayerClock {
             isPreviewingFocus = false
             previewStartTime = nil
             activeFocusPrayer = nil
+            audio.stop()
             return
         }
         let dayKey = Self.dayKey(today.date, in: timeZone)
@@ -164,13 +165,33 @@ final class PrayerClock {
         isPreviewingFocus = true
         previewStartTime = Date()
         activeFocusPrayer = .dhuhr
+        
+        // Auto-play adhan sound if focus sound is enabled!
+        if settings.settings.focusPlaySoundEnabled {
+            let sound = settings.settings.notificationDefaults.sound
+            let soundToPlay = sound.hasFullAdhan ? sound : .adhanMakkah
+            audio.playFullAdhan(soundToPlay)
+        }
+        
         Task {
             try? await Task.sleep(for: .seconds(10))
             if isPreviewingFocus && activeFocusPrayer == .dhuhr {
                 activeFocusPrayer = nil
                 isPreviewingFocus = false
                 previewStartTime = nil
+                audio.stop()
             }
+        }
+    }
+
+    func previewFocusSound() {
+        audio.stop()
+        let sound = settings.settings.notificationDefaults.sound
+        let soundToPlay = sound.hasFullAdhan ? sound : .adhanMakkah
+        audio.playFullAdhan(soundToPlay)
+        Task {
+            try? await Task.sleep(for: .seconds(10))
+            audio.stop()
         }
     }
 
